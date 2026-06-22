@@ -1,5 +1,5 @@
 # [Workbook 10] Web Service Descriptors and Custom Faults
-
+test
 ## Overview
 
 이 연습에서는 미리 생성한 sequenceTryCatch 라는 Flow 서비스를 웹 서비스 설명자(WSD)를 생성, 웹 서비스를 통해 호출 가능하게 만듭니다. 
